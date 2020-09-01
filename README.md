@@ -1,4 +1,3 @@
-# customer_management
+# Ponga pandit checking in....
 This is a customer management system django project
-haha  
-isko repo ko private kr k dekh
+haha isko repo ko private kr k dekh
