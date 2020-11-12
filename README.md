@@ -1,2 +1,1 @@
-# Ponga pandit checking in....
-haha isko repo ko private kr k dekh
+This is build in django python web framework
